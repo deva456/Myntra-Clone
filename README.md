@@ -22,7 +22,7 @@
   
 <h4 align='center' > Myntra is one of the largest fashion e-commerce stores in India that deals with a wide range of fashion and lifestyle products for men, women, and kids. </h4>
   
-![Home1](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/1ab2310b-8f9f-4356-a5c2-15e7c1f725fc) 
+
 
 
 <!--    - Homepage
@@ -35,7 +35,7 @@
    - Login / Signup -->
    
   
-  ![Homepage](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/94a52ac3-3a0c-4abb-90e0-478b713c801c)
+
 
 ## 🚀 Features
 - Login/Signup User Account
@@ -50,25 +50,6 @@
 - Payment page.
 
 <br />
-
-## Glimpses of Myntra - Clone 🙈 :
-
-
-![Homepage](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/e8db313c-a478-460b-ba29-cfd0fd1ffbab)
-
-![Loginpage](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/f8ac6c35-2a25-4968-8150-62545b10409a)
-
-![Productpage](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/09cacd1f-e08d-4ffd-9bfb-2ffff0ae2df9)
- 
-![Singleproduct](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/0a1e6a47-5dfc-4af5-aafd-9fa5ff981656)
-
-![Cartpage](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/94400461-c18f-4de6-af0a-2a07205dd3ef)
-
-![Paymentpage](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/f3e4ece3-abf6-4922-a316-f043e126be8f)
-
-![AdminDashboard](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/91b38fb8-d74c-4dcb-8060-61ca4bea72dc)
-
-![Adminpage](https://github.com/1995Neha18/glossy-paper-5488/assets/113035635/7dea6a8a-b879-49f5-aff2-f004790edc94)
 
 
 
@@ -138,33 +119,3 @@ npm start
 
 
 
-## Contact The Team
-
-If you want to contact us, you can reach us through below handles.
-
-<h3>Neha Sahu - Team Lead</h3>
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1995Neha18)
-
-<h3>Shivendra Paliwal - Team Member</h3>
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivaay044)
-
-<h3>Deepak Pandey - Team Member</h3>
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepak01112002)
-
-<h3>Saurav Bhardwaj - Team Member</h3>
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SauravBhardwaj1)
-
-<h3>Sumit Kumar - Team Member</h3>
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitkprasad123)
-
-
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
