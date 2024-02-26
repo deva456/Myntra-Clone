@@ -4,6 +4,7 @@ const { productRoutes } = require('./Routes/productRoutes');
 const { connection } = require('./config/db');
 const { authenticate } = require('./middleware/auth.middleware');
 const cors = require("cors");
+const PORT = process.env.PORT || 5000;
 const app = express();
 require('dotenv').config()
 
@@ -77,6 +78,6 @@ app.listen(process.env.port,async()=>{
     } catch (error) {
         console.log(error.message)       
     }
-    console.log(`server runnning on port ${process.env.port} `)
+    console.log(`server runnning on port ${PORT} `)
 })
 
